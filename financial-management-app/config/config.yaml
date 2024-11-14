@@ -1,0 +1,8 @@
+database:
+  host: locale
+  port: 5432
+  user: db_user
+  password: db_password
+  name: db_name
+jwt:
+  secret: secret_key
